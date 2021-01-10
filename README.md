@@ -1,5 +1,4 @@
-# ML Study
-# hans on machine learing with scikit-learn 2nd
+# Hands on machine learing with scikit-learn 2nd 스터디
 
 # 5장 서포트 백터 머신
 hinge loss derivation
